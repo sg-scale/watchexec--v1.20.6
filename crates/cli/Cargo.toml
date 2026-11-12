@@ -77,7 +77,7 @@ features = [
 mimalloc = "0.1.26"
 
 [build-dependencies]
-embed-resource = "1.6.1"
+embed-resource = "3.0.12"
 
 [features]
 ## For debugging only: enables the Tokio Console.
