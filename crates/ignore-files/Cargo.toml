@@ -22,7 +22,7 @@ tokio = { version = "1.19.2", default-features = false, features = ["fs"] }
 tracing = "0.1.35"
 dunce = "1.0.2"
 miette = "5.3.0"
-thiserror = "1.0.31"
+thiserror = "2.0.21"
 
 [dependencies.project-origins]
 version = "1.1.1"
