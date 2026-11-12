@@ -17,7 +17,7 @@ edition = "2021"
 
 [dependencies]
 miette = "5.3.0"
-thiserror = "1.0.26"
+thiserror = "2.0.21"
 tracing = "0.1.26"
 dunce = "1.0.2"
 globset = "0.4.8"
