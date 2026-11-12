@@ -42,7 +42,7 @@ jobs:
         echo C:\Program Files\Git\usr\bin>>"%GITHUB_PATH%"
 
     - name: Configure caching
-      uses: actions/cache@v3
+      uses: actions/cache@v6
       with:
         path: |
           ~/.cargo/registry/index/
